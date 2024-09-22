@@ -9,7 +9,7 @@ In this project, as the Chief Data Scientist for a school district, we aim to an
 - Providing a detailed summary of district-wide performance and specific school-level statistics.
 
 # Data Sources
-1. # Attract Document:
+1. # Bootcamp provided documentation:
    - The provided starter file, PyCitySchools_starter.ipynb served as the main source for guidance on how to use Pandas for data manipulation, from creating DataFrames to calculating statistics.
 2. # Pandas Documentation:
    - The Pandas library is extensively used for data manipulation and aggregation tasks. The official documentation is an essential reference. You can access it at: https://pandas.pydata.org/pandas-docs/stable/
